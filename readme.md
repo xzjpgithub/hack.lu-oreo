@@ -109,7 +109,8 @@ p.interactive()
 
 
 ```
-
+## 参考看雪的文章，自己分析了跟gdb，重新写了一遍脚本，感谢~
+原文链接：https://bbs.pediy.com/thread-247214-1.htm
 
 
 
